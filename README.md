@@ -145,7 +145,7 @@ abline(h=0, col="black", lty=1)
 
 ---
 
-## Comparing Diversity Using Gene Annotation — Intersecting DEGs with Gene X Binding Sites
+## Intersecting DEGs with Gene X Binding Sites
 
 ### 1. Extract gene coordinates from GFF into BED format
 ```bash
